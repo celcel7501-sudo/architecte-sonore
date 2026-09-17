@@ -1,0 +1,81 @@
+========================================
+SUNO — ADN producteur « syncopé futuriste » V6 (abstrait)
+Empreinte R&B / hip-hop US fin 90s–2000s : pocket décalé, percussions inattendues, silences stratégiques
+AUCUN nom d'artiste / producteur / titre cult dans Style
+Model: v6 · pocket type ~92–100 BPM (adaptable 80–110)
+========================================
+
+MESURES EMPREINTE
+- Pocket syncopé « humanized » : kick hors grille, snare qui arrive un poil tôt/tard, silences qui parlent
+- Percussions atypiques : woodblock, finger snaps, tabla-ish hits, clicks métalliques, fills soudains
+- Bass funk / rubbery mid-bass + sub qui respire ; parfois arrêt brutal avant le drop
+- Motifs : one-shots FX bizarres, vocal chops pitchés (non copyrightés), stabs staccato
+- Mood : futuriste + organique, sexy-froid, espace autour des kicks
+- Voix : lead dry/forward, ad-libs rythmiques qui dialoguent avec la batterie (C&R drum↔voix)
+- Arc : intro sparsée → groove qui se complexifie → bridge strip + perc explosion
+
+----------------------------------------
+STYLE (coller tel quel)
+----------------------------------------
+futuristic syncopated R&B hip-hop, 96 BPM, energy 8, cinematic, off-grid humanized pocket, rubbery mid bass with breathing sub, sparse punchy kick that lands early or late, cracking snare with unexpected fills, finger snaps woodblock metallic clicks tabla-like perc, sudden stutter edits, space and strategic silence between hits, quirky one-shot FX stabs, pitched original vocal chops as texture only, dry punchy lead vocals front-of-mix, call-and-response between drums and ad-libs, duo male and female high tenor clear French diction when sung, progressive climb, explosive perc bridge, polished late-night production, Suno v6 precise instruction following
+
+
+----------------------------------------
+EXCLUDE
+----------------------------------------
+artist names, producer names, copyrighted lyric or sample quotes, stiff fully quantized trap-only hats, phonk cowbell, four-on-the-floor EDM, cheerful acoustic folk, mumbled soft washed vocals, buried vocals behind the beat, excessive wet reverb on lead, sleepy legato only, empty lo-fi without syncopation, generic pop piano ballad, choir stacks drowning the pocket
+
+
+----------------------------------------
+TAGS COURTS (option)
+----------------------------------------
+syncopated R&B hip-hop, 96 bpm, off-grid pocket, rubbery bass, woodblock clicks, finger snaps, stutter edits, strategic silence, punchy dry vocals, cinematic
+
+
+----------------------------------------
+COVER / VOCAL
+----------------------------------------
+Full Create Model: v6.
+Prestige duo high tenor OK.
+Si Add Vocals / bed chargé : Audio Strength 0.65 — garder le pocket syncopé, ne pas lisser la grille.
+
+
+----------------------------------------
+EDITS NL V6
+----------------------------------------
+« More off-grid syncopated pocket, rubbery mid bass, unexpected woodblock and finger-snap fills, keep strategic silence between kicks »
+« Make drums talk to the vocals — call-and-response ad-libs with the percussion, dry front-of-mix leads, less wet reverb »
+« Add sudden stutter edits and quirky one-shot FX stabs in the bridge, then slam back into the groove — keep the same melody and lyrics »
+
+
+----------------------------------------
+GUIDE FLOW (exemple ORIGINAL — pas une copie)
+----------------------------------------
+[Intro]
+[Instrumental]
+click · silence · rubbery bass enters
+(whisper)
+Hmm—
+
+[Verse]
+(punchy, behind then ahead of the beat)
+Le kick arrive en retard
+J’parle dans les trous
+Un snap, un silence
+Le beat me répond
+
+[Hook]
+(short, rhythmic, C&R)
+Clique — j’écoute
+Clique — j’réponds
+Laisse l’espace
+Le groove fait le reste
+
+[Bridge]
+(strip perc → explosion fills)
+Tout coupe
+…puis ça tombe
+Woodblock · snare · sub
+On remonte
+
+========================================
