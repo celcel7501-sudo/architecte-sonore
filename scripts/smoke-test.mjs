@@ -1,8 +1,32 @@
 import { chromium } from "playwright-core";
 import assert from "node:assert/strict";
+import { existsSync } from "node:fs";
+
+const chromiumCandidates = [
+  "/usr/bin/chromium",
+  "/usr/bin/chromium-browser",
+  "/usr/bin/google-chrome",
+  "/usr/bin/google-chrome-stable",
+  "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+  "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+];
+
+function resolveChromiumPath() {
+  const configured = process.env.CHROMIUM_PATH?.trim();
+  if (configured) return configured;
+
+  const found = chromiumCandidates.find((candidate) => existsSync(candidate));
+  if (found) return found;
+
+  console.error(
+    "Aucun exécutable Chromium ou Chrome n'a été trouvé. Définissez la variable d'environnement CHROMIUM_PATH avec le chemin absolu du navigateur.",
+  );
+  process.exit(1);
+}
 
 const browser = await chromium.launch({
-  executablePath: "/usr/bin/chromium",
+  executablePath: resolveChromiumPath(),
   headless: true,
   args: ["--no-sandbox", "--disable-dev-shm-usage"],
 });
