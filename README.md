@@ -40,6 +40,8 @@ Le smoke test du parcours principal utilise Chromium installé localement :
 node scripts/smoke-test.mjs
 ```
 
+`CHROMIUM_PATH` indique le chemin de l’exécutable Chromium ou Chrome ; à défaut, le script prend le premier chemin existant parmi les emplacements usuels.
+
 Il couvre l’application d’un preset, la fonction serveur, les onglets mobiles, la restauration de l’historique, les trois copies séparées et le manifeste PWA.
 
 ## Fichiers métier protégés
